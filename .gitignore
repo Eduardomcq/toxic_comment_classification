@@ -1,0 +1,8 @@
+word_embedding/GloVe/
+text_classification_v0.ipynb
+text_classification/
+.ipynb_checkpoints/
+dados/
+models/
+vocabulários/
+search.pkl
